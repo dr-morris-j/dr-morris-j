@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have a certain fondness for Kung-Fu Panda
 - 😄 Pronouns: He | Him | His
 
-- 📫 How to reach me: [linkbio.co/drmorrisj]([https://www.](https://linkbio.co/drmorrisj)
+- 📫 How to reach me: [linkbio.co/drmorrisj](https://linkbio.co/drmorrisj)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N5NPMT0)
