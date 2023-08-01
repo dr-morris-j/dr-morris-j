@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I am currently working on my DCS
+- 🌱 I am currently learning how to be a scholar-practitioner
+- 💬 Ask me about data science, python, pandas, or SQL
+
+- ⚡ Fun fact: I have a certain fondness for Kung-Fu Panda
 - 😄 Pronouns: He | Him | His
+
+- 📫 How to reach me: [linkbio.co/drmorrisj]([https://www.](https://linkbio.co/drmorrisj)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N5NPMT0)
