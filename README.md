@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kim-sungchul/kim-sungchul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dr-morris-j/dr-morris-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
