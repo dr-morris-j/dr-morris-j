@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I am currently working on my DCS
 - 🌱 I am currently learning how to be a scholar-practitioner
-- 💬 Ask me about data science, python, pandas, or SQL
+- 💬 Ask me about data infrastructure and analytics
 
 - ⚡ Fun fact: I have a certain fondness for Kung-Fu Panda
 - 😄 Pronouns: He | Him | His
