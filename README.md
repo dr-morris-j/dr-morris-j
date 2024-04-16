@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have a certain fondness for Kung-Fu Panda
 - 😄 Pronouns: He | Him | His
 
-- 📫 How to reach me: [datatofu](datatofu.wordpress.com)
+- 📫 How to reach me: [datatofu](https://datatofu.wordpress.com)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N5NPMT0)
