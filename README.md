@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I am currently working on my DCS
+- 🔭 I am currently working on my Doctor of Computer Science (DCS)
 - 🌱 I am currently learning how to be a scholar-practitioner
 - 💬 Ask me about big data analysis and analytics systems
 
