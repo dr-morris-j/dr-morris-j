@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 - 🔭 I am currently working on my DCS
 - 🌱 I am currently learning how to be a scholar-practitioner
-- 💬 Ask me about data infrastructure and analytics
+- 💬 Ask me about big data analysis and analytics systems
 
 - ⚡ Fun fact: I have a certain fondness for Kung-Fu Panda
 - 😄 Pronouns: He | Him | His
 
-- 📫 How to reach me: [linkbio.co/drmorrisj](https://linkbio.co/drmorrisj)
+- 📫 How to reach me: [datatofu](datatofu.wordpress.com)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N5NPMT0)
