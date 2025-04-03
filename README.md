@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I am currently working on my Doctor of Computer Science (DCS)
-- 🌱 I am currently learning how to be a scholar-practitioner
+- 🌱 I am currently learning new cloud-native architecture designs and systems
 - 💬 Ask me about big data analysis and analytics systems
 
 - ⚡ Fun fact: I have a certain fondness for Kung-Fu Panda
