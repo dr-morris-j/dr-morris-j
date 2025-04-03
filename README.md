@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He | Him | His
 
 - 📫 How to reach me: [datatofu](https://datatofu.wordpress.com)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N5NPMT0)
